@@ -89,4 +89,8 @@ body{
     font-family: 'Space Grotesk', sans-serif;
 }
 
-
+#add_b:hover,#remove_all_b:hover{
+    background-color: white;
+    color: red;
+    transition: 0.2s ease-in;
+}
